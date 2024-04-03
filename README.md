@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Yashika and I'm a Computer Science student :)</h2>
+<h2 align="Center">Hi👋! I'm Yashika Vaish</h2>
+<h2 align="Center">Full Stack Developer, Data Science as well as Machine Learning aficionado</h2>h2>
 
 ###
 
