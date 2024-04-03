@@ -1,5 +1,5 @@
 <h2 align="Center">Hi👋! I'm Yashika Vaish</h2>
-<h2 align="Center">Full Stack Developer, Data Science as well as Machine Learning aficionado</h2>h2>
+<h2 align="Center">Full Stack Developer, Data Science as well as Machine Learning aficionado</h2>
 
 ###
 
@@ -52,8 +52,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Yashika0544/Yashika0544/output/snake.svg" alt="Snake animation" />
-
-###
