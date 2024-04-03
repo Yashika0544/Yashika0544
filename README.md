@@ -1,13 +1,5 @@
 <h2 align="Center">Hi👋! I'm Yashika Vaish</h2>
 <h2 align="Center">Full Stack Developer, Data Science as well as Machine Learning aficionado</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashika0544&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashika0544&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/564x/f3/04/41/f30441fb50f760bf90c3b4500fa33220.jpg"  />
