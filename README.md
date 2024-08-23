@@ -1,5 +1,5 @@
 <h2 align="Center">Hi👋! I'm Yashika Vaish</h2>
-<h2 align="Center">Full Stack Developer, Data Science as well as Machine Learning aficionado</h2>
+<h2 align="Center">Full Stack Developer, Machine Learning as well as Data Science aficionado</h2>
 
 ###
 
