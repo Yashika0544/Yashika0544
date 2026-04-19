@@ -1,6 +1,6 @@
-Hi 👋, I'm Yashika Vaish  
+# Hi 👋, I'm Yashika Vaish  
 👩‍💻 A Software Engineer with a strong foundation in Machine Learning, Data Science, and Full Stack Development.  
-I enjoy building scalable applications and solving real-world problems using technology.
+🔨I enjoy building scalable applications and solving real-world problems using technology.
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>- Scalable software solutions and real-world applications<br>- Projects involving Machine Learning, Web Development, and Data Analytics<br><br>🌱 I’m currently learning:<br>- Cloud technologies (Microsoft Azure)<br>- Advanced Data Structures & Algorithms<br>- Backend development and system design<br><br>👯 I’m looking to collaborate on:<br>- Open source projects<br>- Machine Learning / Data Science applications<br>- Full-stack web development projects<br><br>🤝 I’m looking for help with:<br>- Optimizing ML models and handling large-scale data<br>- Cloud deployment and DevOps practices<br><br>💬 Ask me about:<br>- Python, Machine Learning, OpenCV<br>- Web Development (React, Node.js, Django)<br>- Data Analysis & Visualization<br><br>⚡ Fun fact:<br>- I enjoy turning real-world problems into tech solutions and I love painting & reading in my free time 🎨📚
